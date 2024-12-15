@@ -1,5 +1,5 @@
 # **Castle Roid** - [https://castleroid-game.web.app/]
-<img src="https://cloud-f8qzmdzvr-hack-club-bot.vercel.app/0image.png" width="300" />
+<img src="https://cloud-f8qzmdzvr-hack-club-bot.vercel.app/0image.png" width="700" />
 **Overview**  [https://castleroid-game.web.app/]
 Castle Roid is a Metroidvania-style game where players explore interconnected rooms, uncover secrets, and enhance their abilities. The game is currently in development, with player movement and a room map implemented so far.
 
